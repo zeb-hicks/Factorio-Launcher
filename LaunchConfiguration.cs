@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Factorio_Launcher {
     class LaunchConfiguration {
         public String Name = "Unnamed";
-        public String 
+        
 
         public LaunchConfiguration() {
 

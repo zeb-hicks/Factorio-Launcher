@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace Factorio_Launcher {
     public partial class MainWindow : Form {
@@ -65,7 +66,12 @@ namespace Factorio_Launcher {
         }
 
         private void LaunchConfig() {
-            
+            //Process.Start("C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Factorio\\bin\\x64\\factorio.exe", "--mp-connect \"spork.nimphio.us\"");
+            Process game = new Process();
+            game.StartInfo.FileName = "C:\\Games\\Factorio_0.14.12\\bin\\x64\\factorio.exe";
+            game.StartInfo.Arguments = "--mp-connect \"spork.nimphio.us\"";
+            game.StartInfo.CreateNoWindow = true;
+            game.Start();
         }
     }
 }

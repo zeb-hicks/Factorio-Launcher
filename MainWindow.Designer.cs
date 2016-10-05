@@ -24,26 +24,7 @@
         /// </summary>
         private void InitializeComponent() {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.ListViewItem listViewItem5 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "", System.Drawing.SystemColors.WindowText, System.Drawing.SystemColors.Window, new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "Potato Server", System.Drawing.SystemColors.WindowText, System.Drawing.SystemColors.Window, new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "Multiplayer", System.Drawing.SystemColors.WindowText, System.Drawing.SystemColors.Window, new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "2016-10-05 01:05 AM")}, 0);
-            System.Windows.Forms.ListViewItem listViewItem6 = new System.Windows.Forms.ListViewItem(new string[] {
-            "",
-            "Noodle Server",
-            "Multiplayer",
-            "2016-09-12 09:42 AM"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem7 = new System.Windows.Forms.ListViewItem(new string[] {
-            "",
-            "SP Game",
-            "Single Player",
-            "2015-03-01 04:53 PM"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem(new string[] {
-            "",
-            "Old Save",
-            "Single Player",
-            "2012-07-30 11:21 AM"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem("");
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
             this.MainMenuStrip = new System.Windows.Forms.MenuStrip();
             this.LauncherMenu = new System.Windows.Forms.ToolStripMenuItem();
@@ -129,12 +110,8 @@
             this.ConfigurationList.FullRowSelect = true;
             this.ConfigurationList.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.None;
             this.ConfigurationList.HideSelection = false;
-            listViewItem5.StateImageIndex = 0;
             this.ConfigurationList.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem5,
-            listViewItem6,
-            listViewItem7,
-            listViewItem8});
+            listViewItem1});
             this.ConfigurationList.LargeImageList = this.ConfigIcons;
             this.ConfigurationList.Location = new System.Drawing.Point(12, 27);
             this.ConfigurationList.MultiSelect = false;

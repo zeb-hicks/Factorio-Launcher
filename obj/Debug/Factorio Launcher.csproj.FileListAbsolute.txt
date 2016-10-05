@@ -9,3 +9,11 @@ c:\users\zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio La
 c:\users\zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio Launcher.pdb
 c:\users\zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.AboutWindow.resources
 c:\users\zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.SettingsWindow.resources
+C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\bin\Debug\Factorio Launcher.exe.manifest
+C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\bin\Debug\Factorio Launcher.application
+C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.ProgressWindow.resources
+C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio Launcher.exe.manifest
+C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio Launcher\obj\Debug\Factorio Launcher.application
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.exe.config
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.exe
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.pdb
