@@ -50,7 +50,7 @@
             this.HelpMenu});
             this.MainMenuStrip.Location = new System.Drawing.Point(0, 0);
             this.MainMenuStrip.Name = "MainMenuStrip";
-            this.MainMenuStrip.Size = new System.Drawing.Size(733, 24);
+            this.MainMenuStrip.Size = new System.Drawing.Size(664, 24);
             this.MainMenuStrip.TabIndex = 0;
             // 
             // LauncherMenu
@@ -117,7 +117,7 @@
             this.ConfigurationList.MultiSelect = false;
             this.ConfigurationList.Name = "ConfigurationList";
             this.ConfigurationList.ShowGroups = false;
-            this.ConfigurationList.Size = new System.Drawing.Size(536, 334);
+            this.ConfigurationList.Size = new System.Drawing.Size(467, 310);
             this.ConfigurationList.SmallImageList = this.ConfigIcons;
             this.ConfigurationList.TabIndex = 1;
             this.ConfigurationList.TileSize = new System.Drawing.Size(168, 40);
@@ -154,7 +154,7 @@
             // 
             this.LaunchButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LaunchButton.Enabled = false;
-            this.LaunchButton.Location = new System.Drawing.Point(554, 319);
+            this.LaunchButton.Location = new System.Drawing.Point(485, 295);
             this.LaunchButton.Name = "LaunchButton";
             this.LaunchButton.Size = new System.Drawing.Size(167, 42);
             this.LaunchButton.TabIndex = 2;
@@ -165,7 +165,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(733, 373);
+            this.ClientSize = new System.Drawing.Size(664, 349);
             this.Controls.Add(this.LaunchButton);
             this.Controls.Add(this.ConfigurationList);
             this.Controls.Add(this.MainMenuStrip);

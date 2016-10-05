@@ -13,6 +13,7 @@ namespace Factorio_Launcher {
     public partial class MainWindow : Form {
         private AboutWindow aboutWindow = new AboutWindow();
         private SettingsWindow settingsWindow = new SettingsWindow();
+        private ProgressWindow progressWindow = new ProgressWindow();
 
         public MainWindow() {
             InitializeComponent();
@@ -66,12 +67,11 @@ namespace Factorio_Launcher {
         }
 
         private void LaunchConfig() {
-            //Process.Start("C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Factorio\\bin\\x64\\factorio.exe", "--mp-connect \"spork.nimphio.us\"");
-            Process game = new Process();
-            game.StartInfo.FileName = "C:\\Games\\Factorio_0.14.12\\bin\\x64\\factorio.exe";
-            game.StartInfo.Arguments = "--mp-connect \"spork.nimphio.us\"";
-            game.StartInfo.CreateNoWindow = true;
-            game.Start();
+            //Process.Start("C:\\Games\\Factorio_0.14.12\\bin\\x64\\factorio.exe", "--mp-connect \"spork.nimphio.us\"");
+            if (progressWindow.IsDisposed) {
+                progressWindow = new ProgressWindow();
+            }
+            progressWindow.Show();
         }
     }
 }

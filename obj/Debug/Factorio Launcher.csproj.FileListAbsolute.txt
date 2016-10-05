@@ -17,3 +17,16 @@ C:\Users\Zeb\documents\visual studio 2015\Projects\Factorio Launcher\Factorio La
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.exe.config
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.exe
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.pdb
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.exe.manifest
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.application
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.exe
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\bin\Debug\Factorio Launcher.pdb
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.AboutWindow.resources
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.MainWindow.resources
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.ProgressWindow.resources
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.Properties.Resources.resources
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio_Launcher.SettingsWindow.resources
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.csproj.GenerateResource.Cache
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.exe.manifest
+C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.application
