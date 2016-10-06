@@ -30,3 +30,6 @@ C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.csproj.GenerateResource.Cache
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.exe.manifest
 C:\Users\Zeb\Source\Repos\factorio-launcher\Factorio Launcher\obj\Debug\Factorio Launcher.application
+C:\Users\Zeb\Documents\Visual Studio 2015\Projects\Factorio Launcher\bin\Debug\Factorio Launcher.exe.config
+C:\Users\Zeb\Documents\Visual Studio 2015\Projects\Factorio Launcher\obj\Debug\Factorio Launcher.exe
+C:\Users\Zeb\Documents\Visual Studio 2015\Projects\Factorio Launcher\obj\Debug\Factorio Launcher.pdb
