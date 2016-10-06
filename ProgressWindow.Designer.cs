@@ -73,12 +73,12 @@
             this.tableLayoutPanel1.Controls.Add(this.ModSyncProgress, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.label3, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.LaunchProgress, 2, 1);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 12);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(12, 12);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 56.66667F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 43.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(608, 70);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(599, 70);
             this.tableLayoutPanel1.TabIndex = 2;
             // 
             // label2
@@ -88,7 +88,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.Location = new System.Drawing.Point(99, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(410, 39);
+            this.label2.Size = new System.Drawing.Size(401, 39);
             this.label2.TabIndex = 0;
             this.label2.Text = "Synchronizing Mods";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -102,7 +102,7 @@
             this.ModSyncProgress.MarqueeAnimationSpeed = 16;
             this.ModSyncProgress.Maximum = 1000;
             this.ModSyncProgress.Name = "ModSyncProgress";
-            this.ModSyncProgress.Size = new System.Drawing.Size(410, 25);
+            this.ModSyncProgress.Size = new System.Drawing.Size(401, 25);
             this.ModSyncProgress.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.ModSyncProgress.TabIndex = 1;
             // 
@@ -111,7 +111,7 @@
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.Location = new System.Drawing.Point(515, 0);
+            this.label3.Location = new System.Drawing.Point(506, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(90, 39);
             this.label3.TabIndex = 0;
@@ -123,11 +123,11 @@
             this.LaunchProgress.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.LaunchProgress.Location = new System.Drawing.Point(515, 42);
+            this.LaunchProgress.Location = new System.Drawing.Point(506, 42);
             this.LaunchProgress.MarqueeAnimationSpeed = 16;
             this.LaunchProgress.Name = "LaunchProgress";
             this.LaunchProgress.Size = new System.Drawing.Size(90, 25);
-            this.LaunchProgress.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
+            this.LaunchProgress.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.LaunchProgress.TabIndex = 1;
             // 
             // ProgressWindow
